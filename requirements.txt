@@ -1,0 +1,6 @@
+chromadb
+langchain
+pypdf
+pytest
+unstructured 
+tiktoken 
